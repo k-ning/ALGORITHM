@@ -8,3 +8,7 @@ includes:
    - Matrix Multiplication - Strassen Algorithm
    - Matrix Chain Multiplication
 5. Greedy Algorithm Introduction
+==========================================================
+All algorithms below are from <Beauty of Programming>.
+1. Sort on Pancake
+
